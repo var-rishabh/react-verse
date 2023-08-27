@@ -1,0 +1,15 @@
+.footer {
+    width: 100vw;
+    color: beige;
+    bottom: 0;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-style: none;
+}
