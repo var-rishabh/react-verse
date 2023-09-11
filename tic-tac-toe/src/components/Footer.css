@@ -9,7 +9,7 @@
     margin-bottom: 20px;
 }
 
-a {
+.a {
     text-decoration: none;
-    font-style: none;
+    color: aliceblue;
 }
